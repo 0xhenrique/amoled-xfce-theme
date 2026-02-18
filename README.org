@@ -1,0 +1,8 @@
+* XFCE4 Dark Amoled Theme
+
+A dark XFCE/XFWM4 theme with an AMOLED-friendly black background and light-blue accents.
+
+Most of the code was shamelessly stolen (forked) from
+[[https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme][Gruvbox GTK Theme]] by Fausto-Korpsvart.
+
+[[./screenshot.png]]
